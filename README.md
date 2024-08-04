@@ -38,6 +38,6 @@
 
 ### Contact Me
 - Email: <jacinthdavid70@gmail.com>
-- LinkedIn: <Your LinkedIn profile URL>
+- LinkedIn: <https://www.linkedin.com/in/jacinth-david-990a03211/>
 - GitHub: <https://github.com/jdmghk>
 

@@ -18,7 +18,7 @@
 - Technologies used: ```[Node.js, Express.js, Passport and Mongoose]```
 - <https://github.com/jdmghk/node-passport-loginpage>
 
-#### [discord-bot-nodejs]
+#### Discord-bot-nodejs
 
 - Description: ```This is a discord bot which replies basic commands, performs the kick & ban actions on Discord and also message and role reactions.```
 - Technologies used: ```[Node.js, Express.js]```

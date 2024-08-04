@@ -5,7 +5,7 @@
 ![Profile Picture](https://drive.google.com/file/d/1bdTdUrOMA2ukLVDb2gIOk_82e309wPmy/view?usp=drive_link)
 
 ### About Me
-[Brief introduction about yourself, your passion for software engineering, and your key skills]
+[Passionate backend developer with one year of experience in JavaScript (Node.js, Express.js) and Python (Flask, Django) ecosystems. Skilled in crafting scalable server-side solutions, API design, and database management. Enthusiastic about DevOps practices, continuously expanding knowledge in cloud services, containerization, and CI/CD pipelines to deliver robust and efficient backend systems.]
 
 ### Skills
 - Programming Languages: [Javascript, Python]
@@ -29,11 +29,13 @@
 - [Key responsibility or achievement]
 
 ### Education
-**[Degree]** in [Field of Study]  
+**[Bachelor of Engineering]** in [Electrical Electronics Engineering]  
 [Covenant University] - [2022]
 
 ### Certifications
-- [Certification Name] - [Issuing Organization] ([Year])
+- [Docker Training for Absolute Beginners] - [KodeKloud] ([2024])
+- [Introduction to Devops] - [IBM] ([2024])
+- [Agile] - [Atlassian] ([2024])
 
 ### Contact Me
 - Email: [jacinthdavid70@gmail.com]

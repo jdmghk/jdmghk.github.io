@@ -4,12 +4,12 @@
 ![Profile Picture]<https://imgur.com/a/1pAYARY>
 
 ### About Me
-[Passionate backend developer with one year of experience in JavaScript (Node.js, Express.js) and Python (Flask, Django) ecosystems. Skilled in crafting scalable server-side solutions, API design, and database management. Enthusiastic about DevOps practices, continuously expanding knowledge in cloud services, containerization, and CI/CD pipelines to deliver robust and efficient backend systems.]
+```Passionate backend developer with one year of experience in JavaScript (Node.js, Express.js) and Python (Flask, Django) ecosystems. Skilled in crafting scalable server-side solutions, API design, and database management. Enthusiastic about DevOps practices, continuously expanding knowledge in cloud services, containerization, and CI/CD pipelines to deliver robust and efficient backend systems.```
 
 ### Skills
-- Programming Languages: [Javascript, Python]
-- Frameworks & Libraries: [Express.js, Nest.js, Typescript, Django, Flask]
-- Tools & Technologies: [AWS, Docker, Git, MongoDB, PostgreSQL]
+- Programming Languages: ```Javascript, Python```
+- Frameworks & Libraries: ```Express.js, Nest.js, Typescript, Django, Flask```
+- Tools & Technologies: ```AWS, Docker, Git, MongoDB, PostgreSQL```
 
 ### Projects
 #### [Project Name 1]
@@ -22,7 +22,7 @@
 - Technologies used: [List of technologies]
 - [Link to the project or its repository]
 
-### Work Experience
+### 44DB
 **[Job Title]** at [Company Name] (Start Date - End Date)
 - [Key responsibility or achievement]
 - [Key responsibility or achievement]

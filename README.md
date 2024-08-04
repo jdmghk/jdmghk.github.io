@@ -22,11 +22,6 @@
 - Technologies used: [List of technologies]
 - [Link to the project or its repository]
 
-### 44DB
-**[Job Title]** at [Company Name] (Start Date - End Date)
-- [Key responsibility or achievement]
-- [Key responsibility or achievement]
-
 ### Education
 **[Bachelor of Engineering]** in [Electrical Electronics Engineering]  
 [Covenant University] - [2022]

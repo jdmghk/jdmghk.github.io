@@ -1,5 +1,4 @@
 
-# [Jacinth David]
 ## Backend Developer
 
 ![Profile Picture]<https://imgur.com/a/1pAYARY>

@@ -2,7 +2,7 @@
 # [Jacinth David]
 ## Backend Developer
 
-![Profile Picture](https://imgur.com/a/1pAYARY)
+![Profile Picture]<https://imgur.com/a/1pAYARY>
 
 ### About Me
 [Passionate backend developer with one year of experience in JavaScript (Node.js, Express.js) and Python (Flask, Django) ecosystems. Skilled in crafting scalable server-side solutions, API design, and database management. Enthusiastic about DevOps practices, continuously expanding knowledge in cloud services, containerization, and CI/CD pipelines to deliver robust and efficient backend systems.]
@@ -38,7 +38,7 @@
 - [Agile] - [Atlassian] ([2024])
 
 ### Contact Me
-- Email: [jacinthdavid70@gmail.com]
-- LinkedIn: [Your LinkedIn profile URL]
-- GitHub: [https://github.com/jdmghk]
+- Email: <jacinthdavid70@gmail.com>
+- LinkedIn: <Your LinkedIn profile URL>
+- GitHub: <https://github.com/jdmghk>
 

@@ -12,17 +12,17 @@
 
 ### Projects
 
-#### [Project Name 1]
+#### Node.js Passport Login
 
-- Description: [Brief description of the project]
-- Technologies used: [List of technologies]
-- [Link to the project or its repository]
+- Description: ```This is a complete authentication application with login, register and access control```
+- Technologies used: ```[Node.js, Express.js, Passport and Mongoose]```
+- <https://github.com/jdmghk/node-passport-loginpage>
 
 #### [discord-bot-nodejs]
 
-- Description: [Brief description of the project]
-- Technologies used: [List of technologies]
-- [Link to the project or its repository]
+- Description: ```This is a discord bot which replies basic commands, performs the kick & ban actions on Discord and also message and role reactions.```
+- Technologies used: ```[Node.js, Express.js]```
+- <https://github.com/jdmghk/discord-bot-nodejs>
 
 ### Education
 

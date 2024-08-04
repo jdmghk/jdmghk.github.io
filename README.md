@@ -27,9 +27,9 @@
 [Covenant University] - [2022]
 
 ### Certifications
-- [Docker Training for Absolute Beginners] - ```KodeKloud``` [2024]
-- [Introduction to Devops] - ```IBM``` [2024]
-- [Agile] - ```Atlassian``` [2024]
+- **Docker Training for Absolute Beginners** - ```KodeKloud``` [2024]
+- **Introduction to Devops** - ```IBM``` [2024]
+- **Agile** - ```Atlassian``` [2024]
 
 ### Contact Me
 - **Email:** <jacinthdavid70@gmail.com>

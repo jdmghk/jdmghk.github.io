@@ -1,7 +1,7 @@
 
 ## Backend Developer
 
-![Profile Picture]<https://imgur.com/a/1pAYARY>
+![Profile Picture](images/me.jpg)
 
 ### About Me
 ```Passionate backend developer with one year of experience in JavaScript (Node.js, Express.js) and Python (Flask, Django) ecosystems. Skilled in crafting scalable server-side solutions, API design, and database management. Enthusiastic about DevOps practices, continuously expanding knowledge in cloud services, containerization, and CI/CD pipelines to deliver robust and efficient backend systems.```
@@ -23,8 +23,8 @@
 - [Link to the project or its repository]
 
 ### Education
-**[Bachelor of Engineering]** in [Electrical Electronics Engineering]  
-[Covenant University] - [2022]
+**Bachelor of Engineering** in **Electrical Electronics Engineering**
+**Covenant University** - [2022]
 
 ### Certifications
 - **Docker Training for Absolute Beginners** - ```KodeKloud``` [2024]
